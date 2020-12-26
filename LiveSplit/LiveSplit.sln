@@ -120,6 +120,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveSplit.Racetime", "Compo
 		{6DE847DB-20A3-4848-AEEE-1B4364AECDFB} = {6DE847DB-20A3-4848-AEEE-1B4364AECDFB}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveSplit.RE3RSRT", "..\..\LiveSplit.RE3R-SRT\LiveSplit.RE3RSRT.csproj", "{84286D78-897C-47BB-BBD0-375D900DEA2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -319,6 +321,12 @@ Global
 		{071DD33F-6D10-4C1C-AA52-C86F02CEB67C}.Release Candidate|Any CPU.Build.0 = Release|Any CPU
 		{071DD33F-6D10-4C1C-AA52-C86F02CEB67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{071DD33F-6D10-4C1C-AA52-C86F02CEB67C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84286D78-897C-47BB-BBD0-375D900DEA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84286D78-897C-47BB-BBD0-375D900DEA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84286D78-897C-47BB-BBD0-375D900DEA2C}.Release Candidate|Any CPU.ActiveCfg = Release|Any CPU
+		{84286D78-897C-47BB-BBD0-375D900DEA2C}.Release Candidate|Any CPU.Build.0 = Release|Any CPU
+		{84286D78-897C-47BB-BBD0-375D900DEA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84286D78-897C-47BB-BBD0-375D900DEA2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
